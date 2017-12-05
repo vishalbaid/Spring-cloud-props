@@ -2,7 +2,6 @@
 spring:
   profiles: subject
 words: He, She, it
-fullstatement : This is Vishal.
   
 ---
 spring:
