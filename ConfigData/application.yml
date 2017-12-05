@@ -1,8 +1,8 @@
 ---
 spring:
   profiles: subject
-words: He, She, it, is, am, are
-fullstatement : This is Vishal.
+words: He, She, it, is, am, are, the
+fullstatement : This is Vikrant.
   
 ---
 spring:
